@@ -1,4 +1,0 @@
-io/flutter/plugins/GeneratedPluginRegistrant.java
- io.flutter.plugins.GeneratedPluginRegistrant
-com/example/cat_dog_ml/BuildConfig.java
- com.example.cat_dog_ml.BuildConfig
