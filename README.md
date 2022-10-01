@@ -40,8 +40,7 @@ Users can also search places on the search bar. The searched location will be po
 
 > The trained machine learning model has been used in the app to predict future climate situation. The app will show the prediction results based on the past data.
 
-![Machine learning prediction](https://user-images.githubusercontent.com/55102265/193394232-01e75c49-1a28-4ae2-a3f4-3e7c82e653aa.png)
-
+![Machine learning prediction](https://user-images.githubusercontent.com/55102265/193396134-42c6af6b-e56d-4399-bed6-300cc0ec9709.png)
 
 A recent report from the United Nations predicted that the average global temperature could increase by 6˚ Celsius at the end of the century. The ocean level is rising, glaciers are melting, CO2 in the air is increasing, forest and wildlife are declining, and water life is also getting disturbed due to climatic changes. If we do not do anything and things continue to go on like right now then a day in the future will come when humans will become extinct from the surface of the earth. To reach out to a huge population, we need a smart approach. Around 83% of the world population uses smartphones and there are more than 1.3 billion active mobile game users only in Asia. So, we grabbed this opportunity and designed a mobile game to educate this huge audience. Anyone between the age of 8 to 80 will learn from our app and that will be our greatest achievement. 
 
