@@ -1,7 +1,7 @@
 # Climate-panda
 ![climate panda](https://user-images.githubusercontent.com/55102265/193399322-73320ae4-ad15-4d25-a723-e4efe957477b.png)
 
-Climate panda is a mobile game that utilizes NASA's climate change data to educate people. The climatic change has become a global concern over the last few decades and having various impacts on the ecosystem and ecology. First We collected the data to build a predictive model by machine learning.
+Climate panda is a mobile game that utilizes NASA's climate change data to educate people. The climatic change has become a global concern over the last few decades and has various impacts on the ecosystem and ecology. First We collected the data to build a predictive model by machine learning.
 
 ![NASA's climate change data](https://user-images.githubusercontent.com/55102265/193399460-abd1940e-0e32-41c6-9b84-0c5418526475.png)
 
